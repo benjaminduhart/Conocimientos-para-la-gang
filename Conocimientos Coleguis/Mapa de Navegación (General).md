@@ -13,3 +13,4 @@
 * **`[[Bienvenido]]`** – Quiénes somos, qué dominamos y nuestras metas de aprendizaje actuales.
 * **`[[Reglas de Colaboración Horizontal]]`** – Como trabajamos, desarrollamos nuestro cerebro y que pautas debemos de seguir.
 * **`[[Mapa de Navegación (General)]]`** – Zona de navegación y orientación. 
+* **`[[1.Manifiestos_Colectivo]]`** - motivaciones y héticas de cada persona.
