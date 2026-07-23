@@ -4,5 +4,8 @@
   "calendar",
   "colored-tags",
   "obsidian-file-color",
-  "omnisearch"
+  "omnisearch",
+  "terminal",
+  "obsidian-linter",
+  "obsidian-icon-folder"
 ]

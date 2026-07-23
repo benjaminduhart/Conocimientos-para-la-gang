@@ -1,1 +1,23 @@
-{}
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "interfaceFontFamily": "Consolas,Liberation Mono",
+  "textFontFamily": "Consolas,Liberation Mono",
+  "monospaceFontFamily": "Consolas,Liberation Mono",
+  "enabledCssSnippets": [
+    "mindusting_style",
+    "text",
+    "root",
+    "mermaid",
+    "latex",
+    "image",
+    "header",
+    "code",
+    "callot",
+    "table",
+    "file_emojis"
+  ],
+  "cssTheme": "",
+  "nativeMenus": false
+}
