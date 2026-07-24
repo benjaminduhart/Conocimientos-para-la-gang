@@ -11,6 +11,7 @@
 **Haz clic en los enlaces internos para explorar o aportar:**
 
 * **`[[Bienvenido]]`** – Quiénes somos, qué dominamos y nuestras metas de aprendizaje actuales.
+* **`[[Guía para Principiantes]]`** – Primeros pasos, formato de notas y cómo aportar.
 * **`[[Reglas de Colaboración Horizontal]]`** – Como trabajamos, desarrollamos nuestro cerebro y que pautas debemos de seguir.
-* **`[[Mapa de Navegación (General)]]`** – Zona de navegación y orientación. 
+* **`[[Mapa de Navegación (General)]]`** – Zona de navegación y orientación.
 * **`[[1.Manifiestos_Colectivo]]`** - motivaciones y héticas de cada persona.

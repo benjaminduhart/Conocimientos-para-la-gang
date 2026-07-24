@@ -11,9 +11,10 @@ Para que te orientes mejor te recomiendo ir a [[Mapa de Navegación (General)]] 
 ---
 
 ### 🚀 Tu primer paso hoy:
-1. Entra en **`[[01_Manifiestos_y_Perfiles]]`**.
-2. Crea tu nota personal (puedes usar el botón de plantilla).
-3. Cuéntanos cuáles son tus fuertes (¿cuadros, PLC, HMI, código?), qué estás trasteando ahora mismo y en qué te gustaría que otros compañeros te echen una mano.
+1. Lee la **`[[Guía para Principiantes]]`** para entender cómo funciona el espacio.
+2. Entra en **`[[1.Manifiestos_Colectivo]]`**.
+3. Crea tu nota personal (puedes usar el botón de plantilla).
+4. Cuéntanos cuáles son tus fuertes (¿cuadros, PLC, HMI, código?), qué estás trasteando ahora mismo y en qué te gustaría que otros compañeros te echen una mano.
 
 **¡Gracias por sumar tu conocimiento al nuestro cerebro digital! Vamos a hacer que la tecnología industrial sea más accesible y potente para todos.**
 

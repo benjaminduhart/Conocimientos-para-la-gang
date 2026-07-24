@@ -1,3 +1,4 @@
+#  📝Manifiesto Benja
 
 El presente documento constituye mi manifiesto personal y profesional para afrontar mi rol como técnico auxiliar y de mantenimiento industrial. A lo largo de este año, registraré de forma activa todo mi proceso de aprendizaje, traduciendo la experiencia diaria en planta y oficina técnica en un valor tangible: documentación estructurada, programas optimizados y aplicaciones prácticas.
 
