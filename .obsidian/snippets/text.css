@@ -1,0 +1,17 @@
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+span[class~="cm-strong"] {
+	color: var(--ph4-color) !important;
+}
+
+span[class~="cm-em"] {
+	color: var(--ph3-color) !important;
+}
+
+span[class~="cm-strong"][class~="cm-em"] {
+	color: var(--ph6-color) !important;
+}
+

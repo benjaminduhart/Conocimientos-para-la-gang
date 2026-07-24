@@ -1,0 +1,77 @@
+.nav-folder .nav-folder-title-content:before {
+    content: "📂 ";
+}
+
+.nav-folder.is-collapsed .nav-folder-title-content:before {
+    content: "📁 ";
+}
+
+div[data-path$=".md"] > .nav-file-title-content::before {
+    content: "📝 ";
+}
+
+div[data-path$=".avif"] > .nav-file-title-content::before,
+div[data-path$=".bmp"]  > .nav-file-title-content::before,
+div[data-path$=".gif"]  > .nav-file-title-content::before,
+div[data-path$=".jpeg"] > .nav-file-title-content::before,
+div[data-path$=".jpg"]  > .nav-file-title-content::before,
+div[data-path$=".png"]  > .nav-file-title-content::before,
+div[data-path$=".svg"]  > .nav-file-title-content::before,
+div[data-path$=".webp"] > .nav-file-title-content::before {
+    content: "📷 ";
+}
+
+div[data-path$=".flac"] > .nav-file-title-content::before,
+div[data-path$=".m4a"]  > .nav-file-title-content::before,
+div[data-path$=".mp3"]  > .nav-file-title-content::before,
+div[data-path$=".ogg"]  > .nav-file-title-content::before,
+div[data-path$=".wav"]  > .nav-file-title-content::before,
+div[data-path$=".3gp"]  > .nav-file-title-content::before {
+    content: "🎧 ";
+}
+
+div[data-path$=".mkv"]  > .nav-file-title-content::before,
+div[data-path$=".mov"]  > .nav-file-title-content::before,
+div[data-path$=".mp4"]  > .nav-file-title-content::before,
+div[data-path$=".ogv"]  > .nav-file-title-content::before,
+div[data-path$=".webm"] > .nav-file-title-content::before {
+    content: "📼 ";
+}
+
+div[data-path$=".pdf"] > .nav-file-title-content::before {
+    content: "📕 ";
+}
+
+div[data-path$=".base"] > .nav-file-title-content::before {
+    content: "🛢️ ";
+}
+
+div[data-path$=".py"] > .nav-file-title-content::before {
+    content: "🐍 ";
+}
+
+div[data-path$=".odt"]  > .nav-file-title-content::before,
+div[data-path$=".docx"]  > .nav-file-title-content::before {
+    content: "📘 ";
+}
+
+div[data-path$=".ods"]  > .nav-file-title-content::before,
+div[data-path$=".xlsx"]  > .nav-file-title-content::before,
+div[data-path$=".csv"] > .nav-file-title-content::before {
+    content: "📗 ";
+}
+
+div[data-path$=".odp"]  > .nav-file-title-content::before,
+div[data-path$=".pptx"]  > .nav-file-title-content::before {
+    content: "📙 ";
+}
+
+div[data-path$=".zip"]  > .nav-file-title-content::before,
+div[data-path$=".7z"]  > .nav-file-title-content::before,
+div[data-path$=".rar"]  > .nav-file-title-content::before {
+    content: "📦 ";
+}
+
+.nav-file-title-content::before {
+    content: "📄 ";
+}

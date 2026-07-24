@@ -1,0 +1,39 @@
+.callout {
+	--callout-border-width: 2px;
+	padding-right: 24px;
+	
+	padding: 0px;
+}
+
+.callout-title {
+	padding: var(--callout-padding);
+	/*padding-bottom: 0px;*/
+}
+
+.callout-content {
+	padding: var(--size-4-4) var(--size-4-4) var(--size-4-1) var(--size-4-4);
+	padding-top: 0px;
+}
+
+.theme-dark .callout-content {
+	background-color: #0002;
+}
+
+.theme-light .callout-title {
+	background-color: #0001;
+}
+
+.callout[data-callout="exercise"] {
+	--callout-color: 127, 127, 127;
+	--callout-icon: var(--dumbbell);
+}
+
+.callout[data-callout="idea"] {
+	--callout-color: 204, 204, 0;
+	--callout-icon: lightbulb;
+}
+
+.callout[data-callout="deprecated"] {
+	--callout-color: ;
+	/*--callout-icon: lightbulb;*/
+}
