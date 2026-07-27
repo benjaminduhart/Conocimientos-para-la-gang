@@ -24,6 +24,7 @@ title: CSV en Python
 id,name,age
 1,Adelio,20
 2,Adelia,22
+
 ```
 
 ## LEER COMO LISTA

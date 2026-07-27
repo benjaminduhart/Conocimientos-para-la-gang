@@ -6,7 +6,7 @@
 
 ## 1. ¿Qué es este lugar?
 
-Este vault es el **second brain** de un grupo de amigos y colegas que trabajamos en torno a la industria: mantenimiento electrónico, automatización, ingenierías en informática
+Este vault es el **second brain** de un grupo de amigos y colaboradores que trabajamos en torno a la industria: mantenimiento electrónico, automatización, ingenierías en informática
 
 En vez de dejar que los apuntes, trucos y soluciones se pierdan en chats o cabezas, los juntamos aquí para que todos los aprovechen.
 
@@ -28,7 +28,7 @@ En vez de dejar que los apuntes, trucos y soluciones se pierdan en chats o cabez
 
 - Abre una nota relacionada con lo que sabes.
 - Añade un ejemplo, una corrección, un esquema o un tag.
-- Deja una pequeña línea de changelog si el cambio es grande.
+- Deja una pequeña línea de changelog (registro de cambios) si el cambio es grande.
 
 ### Opción B: Crear una nota nueva
 
@@ -67,8 +67,8 @@ Contexto: ¿qué problema resuelve o cuándo se usa?
 
 ## 5. Reglas de supervivencia
 
-- **Busca antes de crear.** Puede que alguien ya haya escrito lo que necesitas.
-- **Mejor hecho hoy que perfecto mañana.** Un aporte simple ayuda más que uno que nunca llega.
+- **Busca antes de crear.** Puede que alguien ya haya escrito lo que necesitas. busca por tags!!!
+- **Mejor hecho hoy que perfecto mañana.** Un aporte simple ayuda más que uno que nunca llega. Pega tu pequeño brainstorming y ya lo irás actualizando y dando forma
 - **Conecta ideas.** Usa `[[...]]` para enlazar notas; así el cerebro digital gana sentido.
 - **No hay preguntas tontas.** Si algo no está claro, seguro le sirve a más gente.
 
